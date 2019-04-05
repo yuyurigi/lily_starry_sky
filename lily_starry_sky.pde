@@ -1,7 +1,7 @@
 import java.util.Calendar;
 
 int num = 0;
-int maxnum = 2000;
+int maxnum = 1000;
 int dimborder = 20; //縁の太さ
 int time = 0;
 
